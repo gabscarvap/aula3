@@ -2,3 +2,4 @@
 Segunda linha do arquivo
 Terceira linha do arquivo
 Quarta linha do arquivo
+Adicionei uma nova linha no mesmo
